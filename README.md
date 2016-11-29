@@ -4,23 +4,26 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Things you are required to complete and made functional after the project is complete:
 
-* Ruby version
+****As an admin
 
-* System dependencies
+1. I should be able to view all maintenance / repairs requests
+2. I should be able to add names and contacts (phone number) for the people doing maintenance.
+3. Once maintenance is done, I should be able to mark it as resolved
+4. I should be able to approve/reject a repair/maintenance request, and provide comments.
+5. I should send the staff an email confirming if the maintenance request was resolved as intended (Are you satisfied with the repair/maintenance done)
+6. I should give the maintenance timeline for completing the maintenance task.
+7. I should add documentation describing how a maintenance or repair was done.
 
-* Configuration
 
-* Database creation
+*As staff Member
 
-* Database initialization
+1. I should be able to report a maintenance or repair case (and upload a photo if necessary)
+2. I should be able to get an email, once the request has been approved/rejected by the admin
+3. I should be able to get an email once maintenance has been resolved.
+4. I should be able to specify the device to be maintained or repaired.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
 =======
